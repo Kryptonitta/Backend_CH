@@ -1,0 +1,17 @@
+{
+  "name": "desafio",
+  "version": "1.0.0",
+  "main": "clase.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clase": "node clase.js",
+    "contenedor": "node contenedor.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "exports": "0.0.1"
+  }
+}

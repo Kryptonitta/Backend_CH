@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Pikachu",
+    "price": 100,
+    "thumbnail": "https://cdn0.iconfinder.com/data/icons/pokemon-go-vol-2/135/_pikachu-512.png",
+    "id": 1
+  },
+  {
+    "title": "Pidget",
+    "price": 300,
+    "thumbnail": "https://cdn0.iconfinder.com/data/icons/pokemon-go-vol-2/135/_pidgey-512.png",
+    "id": 3
+  },
+  {
+    "title": "Pidget",
+    "price": 300,
+    "thumbnail": "https://cdn0.iconfinder.com/data/icons/pokemon-go-vol-2/135/_pidgey-512.png",
+    "id": 4
+  },
+  {
+    "title": "Pidget",
+    "price": 300,
+    "thumbnail": "https://cdn0.iconfinder.com/data/icons/pokemon-go-vol-2/135/_pidgey-512.png",
+    "id": 5
+  }
+]
