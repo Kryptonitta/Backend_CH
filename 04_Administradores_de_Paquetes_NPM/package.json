@@ -1,0 +1,20 @@
+{
+  "name": "04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Ejercicio01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "e01": "nodemon Ejercicio01.js",
+    "e02": "nodemon Ejercicio02.js",
+    "e03": "nodemon Ejercicio03.js",
+    "_comentario": "Lo de arriba hace que escribir e01 sea igual a escribir 'Ejercicio01.js'. El scripts se corre escribiendo --> npm e01"
+  },
+  "author": "kari",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.15"
+  }
+}

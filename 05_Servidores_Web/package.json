@@ -1,0 +1,21 @@
+{
+  "name": "05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "e01": "nodemon Ejercicio01.js",
+    "e02": "nodemon Ejercicio02.js",
+    "e03": "nodemon Ejercicio03.js"
+  },
+  "author": "karina",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "^0.0.1-security",
+    "moment": "^2.29.3",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  }
+}
